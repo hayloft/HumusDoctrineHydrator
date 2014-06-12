@@ -11,11 +11,6 @@
             "email": "saschaprolic@googlemail.com"
         }
     ],
-    "require": {
-        "php": ">=5.3.3",
-        "zendframework/zend-stdlib": ">=2.2",
-        "doctrine/common": ">2.2,<2.4-dev"
-    },
     "suggest": {
         "doctrine/mongodb-odm": "Doctrine MongoDB Object Document Mapper",
         "doctrine/doctrine2": "Doctrine 2 ORM"
